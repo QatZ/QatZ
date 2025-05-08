@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello Folks!:
 <div align="center"><br><img src="https://github.com/QatZ/biba-boba/blob/main/Me_.jpg" align="center" style="width: 100%" /><br></div>  <br><br>I'm Vova, a motion designer & freelance developer on VL 👨‍💻 working remotely since 2018 🚀
 
 
