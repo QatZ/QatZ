@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vladimir.katasonov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dr_qatz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dr_qatz) 
-.![Kaggle](https://img.shields.io/badge/-Kaggle?style=flat-square&logo=kaggle&logoColor=white&logoSize=auto&labelColor=%2320BEFF&color=white)]_(https%3A%2F%2Fwww.kaggle.com%2Fvladimirkatasonov)
+.![Kaggle](https://img.shields.io/badge/-Kaggle?style=flat-square&logo=kaggle&logoColor=white&logoSize=auto&labelColor=%2320BEFF&color=white)]_(https://www.kaggle.com%2Fvladimirkatasonov)
 
 
 # 💻 Tech Stack:
